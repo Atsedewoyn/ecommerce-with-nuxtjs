@@ -89,6 +89,14 @@
       </v-row>
     </v-container>
     <br /><br />
+    <v-card width="600" elevation="3" color="grinish" append="green" >
+      <v-form>
+        <h3>If you want other than these</h3>
+        <br><br>
+    <v-btn @click="require/index" color="primary">Go here</v-btn>
+      </v-form>
+    </v-card>
+    <br><br><br>
     <Footer />
     <ScrollTop />
   </div>

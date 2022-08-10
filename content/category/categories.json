@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "name": "Shoes",
-    "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "name": "Table",
+    "image": "https://media.istockphoto.com/photos/dining-table-picture-id181121628?s=612x612"
   },
   {
     "id": 2,
-    "name": "Handbags",
-    "image": "https://images.pexels.com/photos/45981/pexels-photo-45981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "name": "Bed",
+    "image": "https://media.istockphoto.com/photos/bed-frame-picture-id545810364?k=20&m=545810364&s=612x612&w=0&h=csqJzuQKiXzBPnUofEOvbXNR_CxEMqDq31XQlaFkWnw="
   },
   {
     "id": 3,
-    "name": "Perfumes",
-    "image": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "name": "Door",
+    "image": "https://i.pinimg.com/550x/76/f8/67/76f8673ba5e947c3745e7fbbd5206b54.jpg"
   },
   {
     "id": 4,
-    "name": "Cosmetics",
-    "image": "https://images.pexels.com/photos/1377034/pexels-photo-1377034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "name": "window",
+    "image": "https://static8.depositphotos.com/1041088/887/i/950/depositphotos_8877408-stock-photo-open-window-to-the-back.jpg"
   },
   {
     "id": 5,
-    "name": "Food",
-    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "name": "locker",
+    "image": "https://m.media-amazon.com/images/I/71zXrbDJuGL.jpg"
   }
 ]

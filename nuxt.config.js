@@ -13,14 +13,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "FreeCommerce",
+    title: "BDU-AssetDevelopment",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       {
         hid: "description",
-        name: "description",
-        content: "Free eCommerce Site Built With NuxtJS ❤",
+        name: "Asset development",
+        content: "e-commerce website❤",
       },
       { name: "format-detection", content: "telephone=no" },
     ],
