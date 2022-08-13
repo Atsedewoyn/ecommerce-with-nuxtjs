@@ -56,6 +56,7 @@ export default {
         {title:'Contact',  route:'contact'},
         
       ]
+    
      }
   },
   methods: {
